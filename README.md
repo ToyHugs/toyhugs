@@ -2,6 +2,8 @@
 
 I like C :D
 *btw I'm on NixOS* ☝️🤓
+
+🚧 Profile under construction 🚧
 <!--
 **ToyHugs/toyhugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
